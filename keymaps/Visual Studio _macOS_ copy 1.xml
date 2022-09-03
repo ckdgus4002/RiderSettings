@@ -16,6 +16,8 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -44,6 +46,7 @@
   <action id="List-selectFirstRowExtendSelection" />
   <action id="List-selectLastRow" />
   <action id="List-selectLastRowExtendSelection" />
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
@@ -62,6 +65,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="Run" />
   <action id="RunClass" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
