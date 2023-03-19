@@ -6,12 +6,20 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
+  <action id="ClickLink" />
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CodeCompletion" />
+  <action id="Console.TableResult.NavigateForeignAction" />
   <action id="Console.TableResult.SetDefault" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -19,8 +27,12 @@
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorDeleteLine" />
-  <action id="EditorLeftWithSelection" />
-  <action id="EditorRightWithSelection" />
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift meta minus" />
     <keyboard-shortcut first-keystroke="shift meta subtract" />
@@ -32,10 +44,12 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenEditor.DDL" />
   <action id="List-selectFirstRow" />
   <action id="List-selectFirstRowExtendSelection" />
   <action id="List-selectLastRow" />
   <action id="List-selectLastRowExtendSelection" />
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
@@ -47,10 +61,14 @@
   </action>
   <action id="NextProjectWindow" />
   <action id="NextTab" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="PreviousTab" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="Run" />
   <action id="RunClass" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
