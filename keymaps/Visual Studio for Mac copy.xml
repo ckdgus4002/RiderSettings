@@ -1,0 +1,16 @@
+<keymap version="1" name="Visual Studio for Mac copy" parent="Visual Studio for Mac">
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion" />
+  <action id="GotoAction" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+</keymap>
