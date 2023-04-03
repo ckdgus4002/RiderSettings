@@ -9,6 +9,9 @@
   <action id="Console.TableResult.NavigateForeignAction">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="GotoAction" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
@@ -16,11 +19,15 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="JumpToLastWindow" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
+  <action id="ShowContent" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
