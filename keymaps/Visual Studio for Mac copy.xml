@@ -12,6 +12,14 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="GotoAction" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
@@ -19,6 +27,8 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="JumpToLastWindow" />
+  <action id="List-selectFirstRowExtendSelection" />
+  <action id="List-selectLastRowExtendSelection" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NextEditorTab" />
@@ -29,5 +39,9 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="ShowContent" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="TableResult.ShrinkSelection" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
