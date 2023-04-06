@@ -9,18 +9,48 @@
   <action id="Console.TableResult.NavigateForeignAction">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="GotoAction" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="Jdbc.OpenEditor.DDL">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="JumpToLastWindow" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
+  <action id="List-selectFirstRowExtendSelection" />
+  <action id="List-selectLastRowExtendSelection" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
+  <action id="ShowContent" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="TableResult.ShrinkSelection" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
