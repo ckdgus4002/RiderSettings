@@ -47,6 +47,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="SearchEverywhere" />
   <action id="ShowContent" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
