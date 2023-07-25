@@ -1,8 +1,5 @@
 <application>
   <component name="GithubAccounts">
-    <account name="ckdgus4002" id="57fc5df0-7b79-48e8-aab1-110806ca274a">
-      <server host="github.com" />
-    </account>
     <account name="lee-changhyun" id="5f1dbecf-e43e-42f1-9aa3-8bd174024b92">
       <server useHttp="false" host="open.oss.navercorp.com" />
     </account>
