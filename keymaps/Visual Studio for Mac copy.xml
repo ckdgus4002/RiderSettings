@@ -46,6 +46,8 @@
   <action id="NextTab" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
+  <action id="Refresh" />
+  <action id="Rerun" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
