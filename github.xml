@@ -1,10 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account name="lee-changhyun" id="5f1dbecf-e43e-42f1-9aa3-8bd174024b92">
+    <account name="lee-changhyun" id="85246c75-f78b-4e02-b4d3-fd77fa07c413">
       <server useHttp="false" host="open.oss.navercorp.com" />
-    </account>
-    <account name="ckdgus4002" id="8e64798f-d641-477d-80e9-bb22c024ba85">
-      <server host="github.com" />
     </account>
   </component>
 </application>
