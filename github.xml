@@ -3,5 +3,8 @@
     <account name="lee-changhyun" id="85246c75-f78b-4e02-b4d3-fd77fa07c413">
       <server useHttp="false" host="open.oss.navercorp.com" />
     </account>
+    <account name="ckdgus4002" id="5ddf4cfb-5f3e-4651-a9b8-1c312ea455c5">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
