@@ -48,6 +48,10 @@
   <action id="PreviousTab" />
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="RiderRemoveAllLineBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
