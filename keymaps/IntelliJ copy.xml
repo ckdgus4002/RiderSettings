@@ -1,6 +1,12 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
   <action id="ActivateServicesToolWindow" />
   <action id="AssemblyDiffAction" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="ClassNameCompletion" />
@@ -21,13 +27,16 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorPasteFromX11" />
   <action id="EnableDaemon">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
@@ -45,6 +54,10 @@
   <action id="List-selectLastRowExtendSelection" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
