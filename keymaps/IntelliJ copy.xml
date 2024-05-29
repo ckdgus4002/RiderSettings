@@ -1,4 +1,5 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateServicesToolWindow" />
   <action id="AssemblyDiffAction" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
@@ -21,6 +22,9 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="EditorPasteFromX11" />
+  <action id="EnableDaemon">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -48,9 +52,21 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="RiderNuGetToggleDependenciesExpanderAction" />
+  <action id="RiderRemoveAllLineBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ToggleTemporaryLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta alt f8" />
+    <keyboard-shortcut first-keystroke="shift meta alt 8" />
+  </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.MoveWatchDown" />
