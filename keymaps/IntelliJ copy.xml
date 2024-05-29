@@ -11,6 +11,9 @@
   <action id="ClassNameCompletion" />
   <action id="CodeCompletion" />
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.FullTextSearch" />
   <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -32,12 +35,15 @@
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoAction" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta d" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="IntroduceField" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="List-selectFirstRowExtendSelection" />
@@ -54,6 +60,18 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta alt f" />
+  </action>
+  <action id="Rerun" />
   <action id="RiderNuGetToggleDependenciesExpanderAction" />
   <action id="RiderRemoveAllLineBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta f9" />
@@ -62,6 +80,7 @@
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="meta 8" />
@@ -70,6 +89,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt f8" />
     <keyboard-shortcut first-keystroke="shift meta alt 8" />
   </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.MoveWatchDown" />
