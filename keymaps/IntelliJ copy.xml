@@ -1,5 +1,10 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
   <action id="ActivateServicesToolWindow" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AssemblyDiffAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -26,6 +31,8 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorPasteFromX11" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="EnableDaemon">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
@@ -46,10 +53,18 @@
   <action id="IntroduceField" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="List-selectFirstRow" />
   <action id="List-selectFirstRowExtendSelection" />
+  <action id="List-selectLastRow" />
   <action id="List-selectLastRowExtendSelection" />
-  <action id="MoveLineDown" />
-  <action id="MoveLineUp" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="NavBar-selectHome">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
@@ -80,7 +95,12 @@
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
   <action id="Svn.RefreshWorkingCopies" />
+  <action id="TableResult.GrowSelection" />
+  <action id="TableResult.ShrinkSelection" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="meta 8" />
@@ -89,6 +109,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt f8" />
     <keyboard-shortcut first-keystroke="shift meta alt 8" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.CopyWatch" />
