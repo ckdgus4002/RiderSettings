@@ -117,8 +117,8 @@
   <action id="copilot.applyInlays" />
   <action id="copilot.disableCopilot" />
   <action id="copilot.enableCopilot" />
-  <action id="copilot.settings">
-    <keyboard-shortcut first-keystroke="shift meta alt o" />
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="f15" />
   </action>
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
