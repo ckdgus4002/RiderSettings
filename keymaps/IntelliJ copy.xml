@@ -114,6 +114,7 @@
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.MoveWatchDown" />
+  <action id="copilot.applyInlays" />
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
