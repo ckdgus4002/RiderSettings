@@ -95,7 +95,7 @@
   </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SearchEverywhereActions">
+  <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="SendEOF" />
