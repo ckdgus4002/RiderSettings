@@ -50,6 +50,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoTest" />
   <action id="IntroduceField" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
@@ -94,7 +95,11 @@
   </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SearchEverywhereActions">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
