@@ -6,11 +6,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AssemblyDiffAction" />
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="button4" />
-  </action>
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="ClassNameCompletion" />
@@ -37,18 +32,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="Forward">
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="Force touch" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoAction" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta d" />
-    <mouse-shortcut keystroke="button5" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoTest" />
   <action id="IntroduceField" />
