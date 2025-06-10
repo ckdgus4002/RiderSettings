@@ -19,6 +19,9 @@
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
   </component>
+  <component name="RiderCodeLensSettings">
+    <option name="defaultVcsAction" value="History" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG:)(\W|$)(.*)" />
