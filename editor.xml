@@ -14,7 +14,6 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="STICKY_LINES_LIMIT" value="2" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="InlineCompletionOnboarding">
