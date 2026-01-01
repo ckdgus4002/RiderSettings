@@ -17,6 +17,7 @@
     <entry key="find.in.files.split.actions" value="false" source="SYSTEM" />
     <entry key="rider.codeVision.fitToContent.enabled" value="true" source="SYSTEM" />
     <entry key="rider.codeVision.zeroWidth.preload.enabled" value="true" source="SYSTEM" />
+    <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
