@@ -13,6 +13,10 @@
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="undo.globalUndoLimit" value="100" source="SYSTEM" />
     <entry key="undo.documentUndoLimit" value="1000" source="SYSTEM" />
+    <entry key="find.in.files.split" value="false" source="SYSTEM" />
+    <entry key="find.in.files.split.actions" value="false" source="SYSTEM" />
+    <entry key="rider.codeVision.fitToContent.enabled" value="true" source="SYSTEM" />
+    <entry key="rider.codeVision.zeroWidth.preload.enabled" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

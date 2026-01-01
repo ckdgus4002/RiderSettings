@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="SHOW_PREVIEW_IN_SEARCH_EVERYWHERE" value="true" />
     <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="59" />
   </component>
 </application>
