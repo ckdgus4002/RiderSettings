@@ -1,4 +1,7 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAIAssistantToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
