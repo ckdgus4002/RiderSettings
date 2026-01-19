@@ -1,4 +1,7 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
+  <action id="AIAssistant.ToolWindow.NewChatActionAlt">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="ActivateAIAssistantToolWindow">
     <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
@@ -13,10 +16,21 @@
   <action id="ChangesView.SetDefault" />
   <action id="ClassNameCompletion" />
   <action id="CodeCompletion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.FullTextSearch" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -29,12 +43,18 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorPasteFromX11" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="EnableDaemon">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoAction" />
@@ -50,8 +70,14 @@
   <action id="List-selectFirstRowExtendSelection" />
   <action id="List-selectLastRow" />
   <action id="List-selectLastRowExtendSelection" />
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
+  <action id="MinimizeCurrentWindow" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -62,18 +88,22 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
   <action id="OpenInlineChatAction">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl meta alt o" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
+  <action id="PopupMenu-selectChild">
+    <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -92,18 +122,29 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="SegmentedButton-right">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
+  <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
   <action id="Svn.RefreshWorkingCopies" />
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.ShrinkSelection" />
+  <action id="Terminal.ClearPrompt" />
+  <action id="Terminal.SearchInCommandHistory" />
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="meta 8" />
@@ -112,6 +153,13 @@
     <keyboard-shortcut first-keystroke="shift meta alt f8" />
     <keyboard-shortcut first-keystroke="shift meta alt 8" />
   </action>
+  <action id="Tree-selectChild">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="UsageFiltering.ReadAccess" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
