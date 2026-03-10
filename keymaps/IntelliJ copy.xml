@@ -16,6 +16,9 @@
   <action id="ChangesView.SetDefault" />
   <action id="ClassNameCompletion" />
   <action id="CodeCompletion" />
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -50,6 +53,9 @@
   <action id="EditorUnSelectWord" />
   <action id="EnableDaemon">
     <keyboard-shortcut first-keystroke="shift ctrl alt 8" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Generate">
