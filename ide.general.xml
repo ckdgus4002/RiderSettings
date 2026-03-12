@@ -18,8 +18,6 @@
     <entry key="rider.codeVision.fitToContent.enabled" value="true" source="SYSTEM" />
     <entry key="rider.codeVision.zeroWidth.preload.enabled" value="true" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
-    <entry key="llm.chat.agent.codex.install.codex.version" value="0.111.0" source="MANAGER" />
-    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.29" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
