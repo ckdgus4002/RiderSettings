@@ -24,6 +24,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Pencils" value="true" />
         <entry key="git" value="true" />
       </map>
     </option>
