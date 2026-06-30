@@ -13,5 +13,6 @@
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="llm.chat.agent.codex.install.codex.version" value="0.137.0" source="MANAGER" />
     <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.46" source="MANAGER" />
+    <entry key="rider.debugger.dotnet.mixed.mode.enabled" value="true" source="SYSTEM" />
   </component>
 </application>
