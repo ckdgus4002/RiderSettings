@@ -66,7 +66,6 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
-  <action id="MinimizeCurrentWindow" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
