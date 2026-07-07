@@ -1,6 +1,7 @@
 <application>
   <component name="NextEditProviderSettings"><![CDATA[{
   "migration": {
+    "secretPresenceHydrated": true,
     "legacyCompletionProviderMigrationApplied": true
   }
 }]]></component>
