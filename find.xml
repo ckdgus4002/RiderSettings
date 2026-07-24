@@ -5,11 +5,11 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="솔루션" />
-    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.shader</mask>
     <mask>*.cs</mask>
+    <mask>cs.meta</mask>
   </component>
 </application>
